@@ -21,7 +21,7 @@ Règles :
 
 ## Liens du projet :
 
-### Web-Application : jeudelavie.github.io
+### Web-Application : https://beuguefallou.github.io/
 
 
 ## Images de présentation :
