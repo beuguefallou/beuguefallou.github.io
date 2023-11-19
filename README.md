@@ -21,10 +21,11 @@ Règles :
 
 ## Liens du projet :
 
-### Web-Application : https://damien-auversack.github.io/Jeu-de-la-vie/
+### Web-Application : jeudelavie.github.io
+
 
 ## Images de présentation :
 
 <div>
-<img align=top src="https://github.com/damien-auversack/jeudelavie/blob/main/presentation_pictures/picture_01.jpg" width="700px">
+<img align=top src="https://github.com/beuguefallou/jeudelavie.github.io/tree/main/presentation_pictures/picture_01.jpg" width="700px">
 </div>
